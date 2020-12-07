@@ -1,0 +1,12 @@
+brew "git"
+brew "vim"
+
+tap "homebrew/cask"
+
+brew cask install iterm2
+brew cask install google-japanese-ime
+brew cask install google-chrome
+brew cask install firefox
+brew cask install visual-studio-code
+brew cask install intellij-idea-ce
+brew cask install pycharm-ce
