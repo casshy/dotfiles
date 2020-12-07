@@ -1,12 +1,26 @@
 brew "git"
 brew "vim"
+brew "jq"
 
-tap "homebrew/cask"
+# tap "homebrew/cask"
 
-brew cask install iterm2
-brew cask install google-japanese-ime
-brew cask install google-chrome
-brew cask install firefox
-brew cask install visual-studio-code
-brew cask install intellij-idea-ce
-brew cask install pycharm-ce
+cask "iterm2"
+cask "google-japanese-ime"
+cask "google-chrome"
+cask "firefox"
+cask "visual-studio-code"
+cask "intellij-idea-ce"
+cask "pycharm-ce"
+cask "alfred"
+cask "karabiner-elements"
+cask "sublime-text"
+cask "bracket"
+cask "atom"
+cask "evernote"
+cask "unity-hub"
+cask "1password"
+cask "wireshark"
+cask "blender"
+cask "dash"
+cask "discord"
+cask "bettertouchtool"
