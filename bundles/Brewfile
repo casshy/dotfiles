@@ -1,6 +1,8 @@
+cask_args appdir: "/Applications"
 brew "git"
 brew "vim"
 brew "jq"
+brew "mas"
 
 # tap "homebrew/cask"
 
@@ -24,3 +26,5 @@ cask "blender"
 cask "dash"
 cask "discord"
 cask "bettertouchtool"
+
+mas "DaisyDisk", id: 411643860
