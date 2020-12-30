@@ -12,3 +12,6 @@
 	pager = less -FMRiX
 [push]
 	default = simple
+[user]
+	name = casshy
+	email = casshy.git@gmail.com
