@@ -1,0 +1,12 @@
+# Ignore all
+*
+!*/
+
+# Allow list
+!.bin/*
+!.config/karabiner/karabiner.json
+!.config/karabiner/assets/**
+!.emacs.d/*
+!bundle/*
+!.gitconfig
+!.gitignore
