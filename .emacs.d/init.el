@@ -11,7 +11,7 @@
 (setq default-process-coding-system '(utf-8 . utf-8))
 (prefer-coding-system 'utf-8-unix)
 
-;; Don't maek lock file and backup file
+;; Don't make lock file and backup file
 (setq create-lockfiles nil)
 (setq make-backup-files nil)
 (setq delete-auto-save-files t)
